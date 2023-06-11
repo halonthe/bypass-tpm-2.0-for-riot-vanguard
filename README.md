@@ -13,19 +13,19 @@
 
 # If not work
 1. open registry editor
-   ![run](https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/run.jpg)
+   <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/run.jpg" />
 2. search MoSetup (you must enable tpm 1.2 if not found)
 ```
 \HKEY_LOCAL_MACHINE\SYSTEM\Setup\MoSetup
 ```
-   ![registry](https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/registry.jpg)
+   <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/registry.jpg" />
 3. create new DWORD (right-click -> new -> dword)
 ```
 allowupgradeswithunsupportedtpmorcpu
 ```
-  ![dword](https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/dword.jpg)
+  <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/dword.jpg" />
 5. set value to 1
-  ![value=1](https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/value=1.jpg)
+  <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/value=1.jpg" />
 6. done
 
 <p align="center">
