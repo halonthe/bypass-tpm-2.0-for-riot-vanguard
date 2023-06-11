@@ -11,7 +11,7 @@
 3. run
 4. enjoy
 
-<h1>if not work</h1>
+<h2>if not work</h2>
 1. open registry editor
  - run (win+r)
  - type "regedit"
