@@ -26,3 +26,7 @@ allowupgradeswithunsupportedtpmorcpu
 ```
 5. set value to 1
 6. done
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Halonthe" />
+</p>
