@@ -1,6 +1,5 @@
-# bypass-tpm-2.0
 
-<h1>How to Bypass TPM 2.0</h1>
+# How to Bypass TPM 2.0
 (work to run riot vanguard)
 
  - open notepad and copy this code
@@ -11,7 +10,7 @@
  - run
  - enjoy
 
-if not work
+# If not work
 1. open registry editor
  - run (win+r)
  - type "regedit"
