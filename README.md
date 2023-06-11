@@ -10,7 +10,6 @@
 2. save file ".cmd"
 <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/cmd.jpg" />
 3. run/open
-4. done
 
 # If not work
 1. open registry editor
