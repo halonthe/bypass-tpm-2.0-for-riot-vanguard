@@ -18,7 +18,7 @@
    - enter
 2. search moSetup
 ```
-Local_Machine\System\Setup\mosetup
+\HKEY_LOCAL_MACHINE\SYSTEM\Setup\moSetup
 ```
 3. create new registry
 ```
