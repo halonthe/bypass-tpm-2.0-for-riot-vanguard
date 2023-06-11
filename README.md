@@ -16,11 +16,11 @@
    - run (win+r)
    - type "regedit"
    - enter
-2. go to this
+2. search moSetup
 ```
-local_machine\system\setup\mosetup
+Local_Machine\System\Setup\mosetup
 ```
-3. create new reg
+3. create new registry
 ```
 allowupgradeswithunsupportedtpmorcpu
 ```
