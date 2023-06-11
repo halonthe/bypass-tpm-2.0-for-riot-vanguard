@@ -7,9 +7,9 @@ run in terminal/create new file with .cmd
 
 if not work:
 1. open registry editor
-```
-run -> type "regedit"
-```
+ - run (win+r)
+ - type "regedit"
+ - enter
 2. go to this
 ```
 local_machine\system\setup\mosetup
