@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/dword.jpg" />
 5. set value to 1
 <img src="https://raw.githubusercontent.com/halonthe/bypass-tpm-2.0/main/image/value=1.jpg" />
-6. done
+6. Run script & Happy Gaming
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Halonthe" />
